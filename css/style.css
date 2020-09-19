@@ -872,6 +872,9 @@ footer h5 {
     .banner-buttons a{
         padding: 8px 20px;
     }
+    .heathy-head .banner-buttons a{
+      margin: auto;
+    }
 
     .heathy-head .banner-buttons a {
         margin: 20px 0px;
