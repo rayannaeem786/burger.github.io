@@ -862,6 +862,16 @@ footer h5 {
         height: auto;
         padding: 30px 0px;
     }
+    .healthy::before{
+        height: 100%;
+    }
+    .banner-buttons {
+        display: flex;
+        justify-content: center;
+    }
+    .banner-buttons a{
+        padding: 8px 20px;
+    }
 
     .heathy-head .banner-buttons a {
         margin: 20px 0px;
